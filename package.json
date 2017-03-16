@@ -1,0 +1,16 @@
+{
+    "name": "BoneSnippets",
+    "publisher": "eliyao",
+    "description": "Bone框架Snippets",
+    "version": "0.1.3",
+    "engines": { "vscode": "0.10.x" },
+    "categories": ["Snippets"], 
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascript",
+                "path": "./snippets/javascript.json"
+            }
+        ]
+    }
+}
