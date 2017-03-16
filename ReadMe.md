@@ -7,7 +7,7 @@
 * BoneController
 * BoneView
 * BoneBaseService
-* BoneDeviceService
+* BoneDeviceService
 
 ## 支持 React Native 生命周期函数
 * getInitialState
@@ -19,7 +19,7 @@
 * componentDidUpdate
 * componentWillUnmount
 
-## [Change Log](https://github.com/EliYao/BoneSnippets/blob/master/CHANGLOG.md)
+## [Change Log](https://github.com/EliYao/BoneSnippets/blob/master/CHANGELOG.md)
 #### Version 0.1.4 (16 March 2017)
 * 加入 Change Log
 * 丰富文档
