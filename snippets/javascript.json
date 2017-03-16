@@ -163,7 +163,7 @@
       "\t\tif (Bone.singletonForKey('${name}')) {",
       "\t\t\treturn Bone.singletonForKey('${name}');",
       "\t\t}",
-      "\t\ttBone.singletonForKey('${name}', this);",
+      "\t\tBone.singletonForKey('${name}', this);",
       "\t}",
       "}"
     ],
