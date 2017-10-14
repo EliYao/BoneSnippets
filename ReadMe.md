@@ -1,4 +1,4 @@
-# BoneSnippets
+# boneSnippets
 
 针对阿里智能 [Bone](https://open.aliplus.com/bone/docs/bone_flow.html) 框架的 Snippet 插件（暂时只支持Visual Studio Code）。
 
@@ -19,7 +19,7 @@
 * componentDidUpdate
 * componentWillUnmount
 
-## [Change Log](https://github.com/EliYao/BoneSnippets/blob/master/CHANGELOG.md)
+## [Change Log](https://github.com/EliYao/boneSnippets/blob/master/CHANGELOG.md)
 #### Version 0.1.5 (16 March 2017)
 * fix typo
 
@@ -30,8 +30,8 @@
 
 ## Source
 
-[GitHub](https://github.com/EliYao/BoneSnippets)
+[GitHub](https://github.com/EliYao/boneSnippets)
 
 ## License
 
-[MIT](https://raw.githubusercontent.com/EliYao/BoneSnippets/master/LICENSE)
+[MIT](https://raw.githubusercontent.com/EliYao/boneSnippets/master/LICENSE)
